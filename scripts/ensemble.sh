@@ -1,0 +1,1 @@
+python3 spatio_temporal/postprocessing/ensemble.py --input_dir $1 --output_dir $2

@@ -1,0 +1,1 @@
+bash spatio_temporal/run.sh 0 final "--scannet_path ${1} --merge True --threads=4 --train_phase=train --val_freq=1000000"
