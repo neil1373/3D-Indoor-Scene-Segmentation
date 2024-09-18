@@ -1,6 +1,10 @@
 # DLCV Final Project ( 3D ScanNet200 long-tail segmentation )
 
-# How to run your code?
+## Poster
+![IMG_4240](https://github.com/user-attachments/assets/512bb50b-1b72-4387-a464-cd6e18e69497)
+
+
+## Script Execution
 
 train.txt and test.txt should be placed in the same folder of dataset (i.e. the original dataset structure from CodaLab).
 
